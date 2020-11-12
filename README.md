@@ -6,6 +6,7 @@ Vue.js front-end for course editor
 main.js file for running Child Theme
 
 =====================================
+
 ( function() {
  new Vue({
   el: document.querySelector('#app'),
@@ -15,5 +16,6 @@ main.js file for running Child Theme
  }
 });
 })();
+
 =====================================
 
